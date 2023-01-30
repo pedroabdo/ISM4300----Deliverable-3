@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ISM_4300___Deliverable_3
+build_property.ProjectDir = /Users/pedronader/Library/CloudStorage/OneDrive-UniversityofSouthFlorida/Files/Semesters/Spring 2023/Managing information resources/ISM 4300 - Deliverable 3/ISM 4300 - Deliverable 3/
